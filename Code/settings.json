@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 15,
+    "workbench.iconTheme": "vscode-great-icons",
+    "explorer.confirmDelete": false,
+    "editor.fontLigatures": true,
+    "files.associations": {
+        "*.js": "javascriptreact"
+    },
+}
